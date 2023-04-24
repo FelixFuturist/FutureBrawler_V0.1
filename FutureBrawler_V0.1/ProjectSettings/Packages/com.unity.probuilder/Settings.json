@@ -131,11 +131,7 @@
             {
                 "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "ShapeBuilder.ActiveShapeIndex",
-<<<<<<< Updated upstream
                 "value": "{\"m_Value\":2}"
-=======
-                "value": "{\"m_Value\":5}"
->>>>>>> Stashed changes
             },
             {
                 "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -150,16 +146,12 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastPivotPosition",
-                "value": "{\"m_Value\":{\"x\":-0.000009059907824848779,\"y\":-0.000004053114935231861,\"z\":9.5367431640625e-7}}"
+                "value": "{\"m_Value\":{\"x\":-0.9876670837402344,\"y\":-0.3319222927093506,\"z\":-1.8561296463012696}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize",
-<<<<<<< Updated upstream
-                "value": "{\"m_Value\":{\"x\":-69.04360961914063,\"y\":-35.40662384033203,\"z\":-103.20064544677735}}"
-=======
-                "value": "{\"m_Value\":{\"x\":2.1706905364990236,\"y\":2.803431510925293,\"z\":2.167191505432129}}"
->>>>>>> Stashed changes
+                "value": "{\"m_Value\":{\"x\":1.9753341674804688,\"y\":0.6638445854187012,\"z\":3.7122583389282228}}"
             },
             {
                 "type": "UnityEngine.Quaternion, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -195,8 +187,6 @@
                 "type": "UnityEngine.ProBuilder.Shapes.Shape, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.Cube",
                 "value": "{}"
-<<<<<<< Updated upstream
-=======
             },
             {
                 "type": "UnityEngine.ProBuilder.Shapes.Shape, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -237,7 +227,6 @@
                 "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "ExtrudeFaces.distance",
                 "value": "{\"m_Value\":0.5}"
->>>>>>> Stashed changes
             }
         ]
     }
